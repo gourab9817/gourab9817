@@ -32,9 +32,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourab9817&show_icons=true&locale=en" alt="gourab9817" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourab9817&" alt="gourab9817" /></p>
 ## My GitHub Stats:
 ![Gourab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gourab9817&show_icons=true&theme=radical)
 
