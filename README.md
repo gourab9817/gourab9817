@@ -35,3 +35,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourab9817&show_icons=true&locale=en" alt="gourab9817" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourab9817&" alt="gourab9817" /></p>
+## My GitHub Stats:
+![Gourab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gourab9817&show_icons=true&theme=radical)
+
+## Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab9817&layout=compact&theme=radical)
+
+## Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=gourab9817&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contribution Activity:
+[![Gourab's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gourab9817&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
