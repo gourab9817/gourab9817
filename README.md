@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://x.com/gourabC08](https://x.com/gourabC08)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UiGA1oWm1FLYSE7-d_q5Du_QRA6GgjMq/view?usp=drive_link](https://drive.google.com/file/d/1UiGA1oWm1FLYSE7-d_q5Du_QRA6GgjMq/view?usp=drive_link)
+- 📄 Know about my experiences [https://gourabchoudhury.tech/](https://gourabchoudhury.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
