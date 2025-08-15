@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gourab Choudhury</h1>
-<h3 align="center">A passionate developer and ML enthusiast from India.</h3>
+<h3 align="center">A passionate developer and Psycho techie</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab9817&label=Profile%20views&color=0e75b6&style=flat" alt="gourab9817" /> </p>
 
 
 
 <p align="left"> <a href="https://twitter.com/gourabc08" target="blank"><img src="https://img.shields.io/twitter/follow/gourabc08?logo=twitter&style=for-the-badge" alt="gourabc08" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter, Dynamic Programing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/gourab9817](https://github.com/gourab9817)
-
-- 📝 I regularly write articles on [https://x.com/gourabC08](https://x.com/gourabC08)
 
 - 📄 Know about my experiences [https://gourabchoudhury.tech/](https://gourabchoudhury.tech/)
 
